@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757904921718",
+    "project_id": "testing-d3fcc",
+    "storage_bucket": "testing-d3fcc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757904921718:android:91714a8dcfc91d604a3b57",
+        "android_client_info": {
+          "package_name": "com.example.lab5_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8TCEUchuJyRSqrqv9P2oKpGud6pK838g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
